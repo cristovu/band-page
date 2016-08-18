@@ -1,0 +1,15 @@
+.members {
+  border: 20px solid black;
+  margin: 5px;
+  margin-left: 100px;
+  padding: 8px;
+  background-color: #e6b3ff;
+}
+
+.rappers {
+  border: 10px dotted blue;
+  margin: 12px;
+  margin-top: 250px;
+  padding: 18px;
+  background-color: #b3ffb3;
+}
